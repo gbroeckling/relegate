@@ -1,0 +1,17 @@
+name: Bug Report
+description: Report a problem
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Relegate is in pre-release. For feature testing, use [GideonMail](https://github.com/gbroeckling/gideonmail)."
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce

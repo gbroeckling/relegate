@@ -1,0 +1,17 @@
+name: Feature Request
+description: Suggest a feature for Relegate
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: "Want to test features now? Try [GideonMail](https://github.com/gbroeckling/gideonmail) — every Relegate feature is available in the desktop app."
+  - type: textarea
+    id: description
+    attributes:
+      label: Feature description
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Use case / motivation
