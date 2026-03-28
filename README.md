@@ -314,6 +314,8 @@ Set up an account, add some VIP senders, enable AI triage, and see what it does.
 | [VirusTotal](https://www.virustotal.com) | URL scanning (70+ engines) | Free (500/day) |
 | [AbuseIPDB](https://www.abuseipdb.com) | IP reputation checking | Free (1k/day) |
 
+**Tested daily with:** The engine is actively used in production with Textbelt for SMS, a high-volume IMAP account as an alternative to manually checking email, and the Anthropic Console (Claude Haiku) for all AI features. This is the most tested combination right now — if you're setting up for the first time, start here.
+
 ---
 
 ## Documentation
