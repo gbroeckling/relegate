@@ -107,7 +107,7 @@ Powered by Claude (Anthropic), the AI engine reads every incoming email and make
 - **Thread summarization** — long email chains condensed to 1-2 sentences so you get the context without reading 47 replies
 - **Per-sender AI analysis** — Watch list senders get full AI treatment on every message
 
-**Cost:** ~$0.003 per email analyzed. $5 of Anthropic API credit lasts months for a neglected account.
+**Cost:** ~$0.003 per email analyzed. Real-world usage on one busy account runs about **$40/year**. For a neglected account with lower volume, $5 of credit lasts months.
 
 ### Low Touch Autopilot `EXPERIMENTAL`
 
@@ -308,7 +308,7 @@ Set up an account, add some VIP senders, enable AI triage, and see what it does.
 
 | Service | What It Enables | Cost |
 |---------|----------------|------|
-| [Anthropic API](https://console.anthropic.com) | AI triage, summaries, drafting, categorization | ~$0.003/email |
+| [Anthropic API](https://console.anthropic.com) | AI triage, summaries, drafting, categorization | ~$0.003/email (~$40/yr busy account) |
 | [Textbelt](https://textbelt.com) | SMS notifications | $10 / 1,000 texts |
 | [Google Calendar](https://console.cloud.google.com) | Auto-scheduling, conflict detection | Free |
 | [VirusTotal](https://www.virustotal.com) | URL scanning (70+ engines) | Free (500/day) |

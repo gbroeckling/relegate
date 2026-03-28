@@ -84,7 +84,7 @@ Senders on your Watch list receive full AI analysis on every email — not just 
 
 ### Cost
 
-**~$0.003 per email analyzed.** Five dollars of Anthropic API credit processes roughly 1,600 emails. For most neglected accounts, that is months of coverage.
+**~$0.003 per email analyzed.** Real-world usage on one very busy account runs about **$40/year** — that's full AI triage, voice learning, commitment tracking, auto-drafting, and smart digest on every email. For a lower-volume neglected account, $5 of credit lasts months.
 
 ---
 
